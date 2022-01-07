@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 
 sass:
-  style: expanded
+  style: compressed
 
 encoding: utf-8
 # Exclude from processing.
