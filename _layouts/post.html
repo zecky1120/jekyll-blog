@@ -15,7 +15,14 @@
   <body>
     {% include navigation.html %}
     <main class="container">
-      {{ content }}
+      <div class="row">
+        <article class="col-12 col-sm-9">
+          <h1>{{ page.title }}</h1>
+          <p>{{ page.excerpt }}</p>
+          {{ content }}    
+        </article>
+      </div>
+
     </main>
     {% include scripts.html %}    
   </body>

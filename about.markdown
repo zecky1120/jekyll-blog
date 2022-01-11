@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+excerpt: aaaaaaa
 ---
 #About
 固定ページの内容です。
