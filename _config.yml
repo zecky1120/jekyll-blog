@@ -36,6 +36,9 @@ sass:
   style: compressed
 
 encoding: utf-8
+
+id: 1
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
